@@ -1,4 +1,4 @@
-- My name is Evgeniy, @Rockkley
+- My name is Evgeniy, @Rockkley, I'm 27 yo.
 - 👀 I’m interested in writing  & recording music, programming telegram bots (Python) and trading bots (MQL), web sites 
 - Skills - Python, HTML, GML, MQL4/5, mixing and recording music
 - 🌱 I’m currently learning Python. I'm interested in creating audio plugins, AI, VR, Smart-Home systems
