@@ -5,4 +5,4 @@
 I'm interested in creating audio plugins, AI, VR, Smart-Home systems
 - 💞️ I’m looking to collaborate on anything, work as python developer or learn new languages and skills. 
 - 📫 Contact me by Telegram (https://t.me/Evgeniy_Samarin) or email (rockkley94@gmail.com)
-I have incomplete higher education in Linguistics, Translating 
+- I have incomplete higher education in Linguistics, Translating 
