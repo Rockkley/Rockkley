@@ -3,5 +3,5 @@
 - 🛠 Skills - Python, PyQt, HTML, GML, MQL4/5, mixing and recording music
 - 💞️ I’m looking to collaborate on anything, work as python/mql developer or learn new programming languages and skills. 
 - 👋 Contact me by Telegram (https://t.me/Evgeniy_Samarin) or email (rockkley94@gmail.com)
-- I have incomplete higher education in Linguistics, Translating 
-- I have status of accredited investor
+- 🎓 I have incomplete higher education in Linguistics, Translating 
+- 📈 I have official status of accredited investor
