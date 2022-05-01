@@ -4,3 +4,4 @@
 - 💞️ I’m looking to collaborate on anything, work as python/mql developer or learn new programming languages and skills. 
 - 👋 Contact me by Telegram (https://t.me/Evgeniy_Samarin) or email (rockkley94@gmail.com)
 - I have incomplete higher education in Linguistics, Translating 
+- I have status of accredited investor
