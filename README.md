@@ -1,4 +1,4 @@
-- 🧙 Evgeniy Samarin, @Rockkley, I'm 28 yo.
+- 🧙 Evgeniy Samarin, @Rockkley, 28 yo.
 - 👀 I’m interested in writing  & recording music, programming, AI, VR
 - 🛠 Skills - Python, PyQt, HTML, GML, MQL4/5, mixing and recording music
 - 🎼 I play guitar, piano, drums
