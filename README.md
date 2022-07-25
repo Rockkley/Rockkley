@@ -1,6 +1,6 @@
 - 🧙 Evgeniy Samarin, @Rockkley, 28 yo.
 - 👀 I’m interested in writing  & recording music, programming, AI, VR
-- 🛠 Skills - Python, PyQt, HTML, GML, MQL4/5, mixing and recording music
+- 🛠 Skills - Python, PyQt, HTML, GML, MQL4/5, mixing and recording music, finance trading
 - 🎼 I play guitar, piano, drums
 - 💞️ I’m looking to collaborate on anything as developer or an artist 
 - 👋 Contact me by Telegram (https://t.me/Evgeniy_Samarin) or email (rockkley94@gmail.com)
